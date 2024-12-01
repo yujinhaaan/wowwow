@@ -1,0 +1,105 @@
+Grade,Interest,Activity,In_Keyword ,In_Keyword2,Purpose,Clubname
+11,Science,Study,Engineering,Lab,Individual,13
+7,Social Politicssience,Creative,Education,Per,Exp,27
+7,Literature and Linguistics,Volunteer,SocialScience,Per,Individual,21
+10,Science,Study,Engineering,Coding,Exp,13
+11,Science,Study,Engineering,Doc,Individual,4
+7,Literature and Linguistics,Creative,Education,Art,Fun,25
+10,gym,Sports,SportsGame,Coding,Fun,29
+8,art,Team,Education,Doc,Individual,19
+11,Science,Study,Engineering,Lab,Fun,5
+7,art,Creative,SportsGame,Per,Fun,27
+9,Social Politicssience,Debate,SocialScience,Per,Individual,15
+9,Social Politicssience,Debate,SocialScience,Coding,Individual,12
+11,Science,Volunteer,Education,Per,Individual,15
+8,art,Creative,SportsGame,Art,Individual,16
+7,art,Team,Education,Art,Fun,17
+9,Science,Study,Engineering,Lab,Individual,13
+7,Literature and Linguistics,Volunteer,Education,Doc,Individual,23
+9,Math and Computer,Debate,Engineering,Coding,Fun,16
+8,Literature and Linguistics,Debate,Education,Lab,Individual,29
+7,Economy,Debate,Media,Per,Fun,19
+9,Science,Volunteer,Education,Lab,Individual,22
+11,Literature and Linguistics,Debate,SocialScience,Art,Individual,2
+8,Math and Computer,Team,Engineering,Coding,Exp,10
+10,Science,Study,Engineering,Lab,Individual,13
+11,art,Creative,Media,Per,Fun,19
+11,Economy,Volunteer,SocialScience,Art,Individual,18
+9,Social Politicssience,Volunteer,Education,Art,Individual,21
+11,Science,Study,Engineering,Coding,Individual,24
+9,Social Politicssience,Team,SocialScience,Literature,Individual,25
+10,Economy,Team,Media,Literature,Fun,26
+11,Science,Sports,SportsGame,Lab,Exp,31
+11,gym,Sports,SportsGame,Art,Individual,29
+10,Literature and Linguistics,Creative,Media,Art,Exp,27
+11,Science,Study,Engineering,Lab,Individual,24
+9,Math and Computer,Creative,Engineering,Coding,Fun,6
+11,art,Creative,Media,Art,Exp,9
+8,art,Volunteer,Education,Per,Fun,28
+8,art,Creative,Education,Per,Fun,28
+11,Economy, Debate,SocialScience,Literature,Exp,14
+11,Math and Computer,Study,Engineering,Coding,Exp,12
+11,Science,Team,Engineering,Coding,Exp,12
+10,gym,Sports,SportsGame,Literature,Fun,30
+11,Science,Study,Engineering,Doc,Individual,4
+11,art,Team,Media,Art,Exp,17
+10,Economy,Creative,Media,Art,Individual,3
+9,Social Politicssience,Study,Media,Art,Individual,23
+10,art,Volunteer,Media,Lab,Individual,5
+8,art,Study,Media,Per,Exp,19
+7,Economy,Creative,SocialScience,Literature,Individual,18
+10,Science,Study,SocialScience,Literature,Individual,26
+9,art,Study,SportsGame,Lab,Individual,29
+11,Literature and Linguistics,Team,Engineering,Lab,Individual,4
+11,Science,Sports,Education,Per,Exp,23
+7,Social Politicssience,Creative,Media,Per,Exp,23
+10,Math and Computer,Creative,Engineering,Coding,Individual,6
+9,Literature and Linguistics,Debate,Management,Per,Individual,28
+7,Literature and Linguistics,Creative,Education,Per,Individual,19
+11,Science,Volunteer,Engineering,Doc,Individual,4
+8,Social Politicssience,Study,Management,Literature,Exp,25
+11,art,Team,SocialScience,Lab,Individual,16
+9,gym,Debate,Management,Lab,Exp,15
+9,Social Politicssience,Volunteer,Management,Literature,Individual,25
+8,Economy,Volunteer,SportsGame,Per,Exp,28
+7,Science,Volunteer,SportsGame,Per,Exp,11
+8,Science,Creative,Engineering,Coding,Individual,10
+9,Economy,Debate,Engineering,Coding,Exp,6
+10,gym,Study,Education,Art,Individual,17
+9,Social Politicssience,Volunteer,SocialScience,Lab,Exp,14
+10,Science,Team,Engineering,Lab,Exp,10
+10,Literature and Linguistics,Study,Media,Art,Individual,3
+9,Math and Computer,Study,Engineering,Doc,Individual,4
+11,Literature and Linguistics,Debate,SocialScience,Literature,Individual,32
+11,gym,Volunteer,Media,Lab,Individual,7
+9,Social Politicssience,Team,Education,Literature,Individual,21
+8,Literature and Linguistics,Creative,Media,Art,Exp,3
+7,art,Study,Education,Per,Exp,28
+11,art,Volunteer,Media,Per,Exp,20
+7,Science,Team,SocialScience,Literature,Individual,16
+10,Literature and Linguistics,Sports,Media,Art,Exp,27
+9,Economy,Study,Management,Doc,Individual,22
+11,Social Politicssience,Volunteer,SportsGame,Coding,Individual,30
+7,Social Politicssience,Team,SocialScience,Literature,Exp,25
+9,Literature and Linguistics,Creative,Media,Literature,Individual,17
+11,Social Politicssience,Creative,Media,Art,Individual,7
+11,Math and Computer,Study,Media,Lab,Individual,12
+11,Science,Study,Engineering,Coding,Individual,4
+11,Science,Study,Engineering,Lab,Individual,12
+10,Math and Computer,Study,Engineering,Lab,Individual,13
+11,Science,Study,Engineering,Lab,Individual,12
+10,Science,Study,Engineering,Doc,Individual,5
+11,Science,Study,Engineering,Lab,Individual,24
+11,Math and Computer,Team,Engineering,Lab,Individual,24
+11,Math and Computer,Study,Engineering,Coding,Individual,13
+10,Math and Computer,Team,Engineering,Lab,Individual,24
+8,Science,Creative,Engineering,Art,Individual,10
+9,Economy,Debate,Engineering,Coding,Exp,6
+10,gym,Sports,Management,Literature,Individual,17
+9,Social Politicssience,Volunteer,Management,Lab,Exp,14
+10,Science,Creative,Engineering,Coding,Exp,10
+10,Literature and Linguistics,Study,Media,Art,Individual,3
+9,Math and Computer,Study,Engineering,Doc,Individual,4
+11,Literature and Linguistics,Debate,SocialScience,Literature,Individual,32
+11,gym,Volunteer,Media,Art,Individual,7
+9,Math and Computer,Study,Education,Art,Fun,12
